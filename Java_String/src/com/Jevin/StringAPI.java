@@ -6,7 +6,7 @@ package com.Jevin;
 public class StringAPI {
     /**
      * 测试主入口
-     * @param args
+     * @param args 无
      */
     public static void main(String[] args) {
 
@@ -14,5 +14,7 @@ public class StringAPI {
     /**
      * 测试方法
      */
+    public void construction(){
 
+    }
 }
